@@ -1,6 +1,4 @@
-element.style {
-    background-image: url(img/weather/hero-clear-night.jpg);
-}
+
 .hero.landscape {
     color: white;
 }
@@ -27,11 +25,11 @@ element.style {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-user agent stylesheet
+
 div {
     display: block;
 }
-Inherited from body
+
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
@@ -39,7 +37,7 @@ body {
     color: #333;
     background-color: #fff;
 }
-Inherited from html
+
 html {
     font-size: 10px;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
